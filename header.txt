@@ -1,0 +1,157 @@
+<!-- Topbar Section ================================================== -->
+	<div class="topbar">
+		<div class="container topbar__content">
+			<!-- <div class="topbar__content"> -->
+				<div class="col-xxl-6 col-lg-6 col-md-6 col-sm-6 col-6 topbar-left">
+					<!-- .topbar__column-left -->
+					<div class="topbar__column-left">
+						<!-- .topbar__text-content -->
+						<div class="topbar__text-content">
+							<p>
+								<i class="fas fa-map-marker-alt"></i>
+								29 Land St, Lorem City, CA
+							</p>
+						</div>
+						<!-- .topbar-text-content -->
+						<div class="topbar-text-content">
+							<p>
+								<i class="fas fa-phone-alt"></i>
+								+96 885 1247
+							</p>
+						</div>
+					</div>
+					
+				</div>
+				<div class="col-xxl-6 col-lg-6 col-md-12 col-sm-12 col-12">
+					<!-- .topbar__column-right -->
+					<div class="topbar__column-right">
+						<!-- .topbar__text-content -->
+						<div class="topbar__text-content">
+							<!-- .social__icons -->
+							<ul class="social__icons">
+								<li class="social__icons-item">
+									<a href="#">
+										<i class="fab fa-twitter"></i>
+									</a>
+								</li>
+								<li class="social__icons-item">
+									<a href="#">
+										<i class="fab fa-facebook-f"></i>
+									</a>
+								</li>
+								<li class="social__icons-item">
+									<a href="#">
+										<i class="fab fa-google-plus-g"></i>
+									</a>
+								</li>
+							</ul>
+							<div class="dropdown">
+								  <button class="btn btn-secondary dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
+								    EN
+								  </button>
+
+								  <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+								    <li>
+								    	<a class="dropdown-item" href="#">Action</a></li>
+								    <li>
+								    	<a class="dropdown-item" href="#">Another action</a></li>
+								    <li>
+								    	<a class="dropdown-item" href="#">Something else here</a>
+								    </li>
+								  </ul>
+								  <form action="">
+									  	<div class="form-group">
+									  		<input type="text" placeholder="Search">
+									  	</div>
+									  	<button>
+									  		<i class="fas fa-search"></i>
+									  	</button>
+								  </form>
+							</div>
+						</div>
+					</div>
+					
+				</div>
+			<!-- </div> -->
+			<!-- .section_info__body -->
+		</div>
+	</div>
+	<!-- Navbar Section ================================================== -->
+
+
+ <nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <div class="container">
+  		<div class="navbar-logo-mobile">
+	      	<a href="index.html" class="navbar-brand">
+	      		<h3 class="navbar__brand-logo">Sunset Hotel</h3>
+	      		<p class="navbar__brand-sublogo">Grand</p>
+	      	</a>
+        </div>
+	  	<a class="navbar-brand title-text" href="#">Navbar</a>
+	    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+	      		<span class="navbar-toggler-icon"></span>
+	    </button>
+	    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+
+	 
+	      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+	  	  	 <li class="nav-item dropdown">
+		          <a class="nav-link dropdown-toggle" href="index.html" id="navbarDropdown"  data-bs-toggle="dropdown" aria-expanded="false">
+		            HOME
+		          </a>
+		          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+			            <li><a class="dropdown-item" href="index.html">1111Home static image</a></li>
+			            <li><a class="dropdown-item" href="index.html">Home Parallax</a></li>
+			            <li><a class="dropdown-item" href="index.html">Home Slider</a></li>
+			            <li><a class="dropdown-item" href="index.html">Home Slider</a></li>
+		          </ul>
+	        </li>
+	        <li class="nav-item">
+	          <a class="nav-link active" aria-current="page" href="aboutus.html">ABOUTS US</a>
+	        </li>
+	        <li class="nav-item dropdown">
+	          <a class="nav-link dropdown-toggle" href="room-detail.html" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+	            ROOM
+	          </a>
+	         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+		            <li><a class="dropdown-item" href="#"> ROOM 1</a></li>
+		            <li><a class="dropdown-item" href="#"> ROOM 2</a></li>
+		            <li><a class="dropdown-item" href="room-detail.html">Room detail</a></li>
+		            <li><a class="dropdown-item" href="#">Home Slider</a></li>
+	          </ul>
+	        </li>
+	      </ul>
+
+	  <div class="navbar-logo">
+	      	<a href="" class="navbar-brand">
+	      		<h3 class="navbar__brand-logo">Sunset Hotel</h3>
+	      		<p class="navbar__brand-sublogo">Grand</p>
+	      	</a>
+	      </div>
+
+
+
+	      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+	  	
+	        <li class="nav-item">
+	          	<a class="nav-link active" aria-current="page" href="reservation.html">Reservation</a>
+	        </li>
+	        <li class="nav-item dropdown">
+	          <a class="nav-link dropdown-toggle" href="our-gallery.html" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+	            PAGE
+	          </a>
+	          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+		            <li><a class="dropdown-item" href="our-gallery.html">Gallery full width</a></li>
+		            <li><a class="dropdown-item" href="our-gallery.html">Gallery boxed</a></li>
+		            <li><a class="dropdown-item" href="blog.html">Blog</a></li>
+		            <li><a class="dropdown-item" href="blog.html">Blog Item</a></li>
+		            <li><a class="dropdown-item" href="our-gallery.html">404 Page</a></li>
+	          </ul>
+	        </li>
+	        <li class="nav-item">
+	         	 <a class="nav-link active" aria-current="page" href="contact.html">CONTACT</a>
+	        </li>
+	      </ul>
+	    </div>
+  </div>
+ </nav>
